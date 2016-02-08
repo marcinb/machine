@@ -11,3 +11,6 @@ brew cask install skype
 
 echo -e "\n[Installing Slack]\n"
 brew cask install slack
+
+echo -e "\n[Installing Spotify]\n"
+brew cask install spotify
