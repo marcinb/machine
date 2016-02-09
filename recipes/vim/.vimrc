@@ -44,5 +44,8 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 
+" No .swp files
+set noswapfile
+
 " Set up VimWiki to be sync with Dropbox
 let g:vimwiki_list = [{'path': '~/Dropbox/vimwiki/', 'path_html': '~/vimwiki_html/'}]
