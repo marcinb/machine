@@ -7,3 +7,5 @@ How to use this:
 
 2. Run `./provision.sh` from within machine's directory.
 
+### ToDo
+- [ ] Allow configuring .bashrc
