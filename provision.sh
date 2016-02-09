@@ -3,4 +3,6 @@
 ./recipes/brew.sh
 ./recipes/iterm/install.sh
 ./recipes/vim/install.sh
+./recipes/golang/install.sh
 ./recipes/casks.sh
+
