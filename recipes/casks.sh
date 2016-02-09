@@ -14,3 +14,9 @@ brew cask install spotify
 
 echo -e "\n[Installing Vagrant]\n"
 brew cask install vagrant
+
+echo -e "\n[Installing Dropbox]\n"
+brew cask install dropbox
+
+echo -e "\n[Installing Evernote]\n"
+brew cask install evernote
