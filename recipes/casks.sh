@@ -20,3 +20,6 @@ brew cask install dropbox
 
 echo -e "\n[Installing Evernote]\n"
 brew cask install evernote
+
+echo -e "\n[Installing nmap]\n"
+brew install nmap
