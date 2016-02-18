@@ -28,3 +28,5 @@ brew install nmap
 echo -e "\n[Installing Vagrant]\n"
 brew cask install vagrant
 
+echo -e "\n[Installing Haskell Platform]\n"
+brew install ghc cabal-install
