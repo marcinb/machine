@@ -30,3 +30,7 @@ brew cask install vagrant
 
 echo -e "\n[Installing Haskell Platform]\n"
 brew install ghc cabal-install
+
+echo -e "\n[Installing sshfs]\n"
+brew cask install sshfs
+
