@@ -1,7 +1,4 @@
 #!/bin/bash
-
-echo -e "\n[Setting up Vim]\n"
-
 cp ./recipes/vim/.vimrc ~/.vimrc
 
 # Install Vundler

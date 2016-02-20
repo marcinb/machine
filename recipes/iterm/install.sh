@@ -1,6 +1,4 @@
 # Install iTerm2 via Homebrew Cask
-
-echo -e "\n[Installing iTerm2]\n"
 brew cask install iterm2
 
 # Install AutoLaunch script
