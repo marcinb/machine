@@ -1,8 +1,6 @@
 #!/bin/bash
 
-#!/bin/bash
-
-echo -e "\n[Installing Homebrew]\n"
+# Install Homebrew & Cask
 ./recipes/brew.sh
 
 # OSX APPS
@@ -27,7 +25,6 @@ brew cask install evernote
 
 # DEV TOOLS
 
-
 echo -e "\n[Installing iTerm]\n"
 ./recipes/iterm/install.sh
 
@@ -49,4 +46,5 @@ brew install ghc cabal-install
 echo -e "\n[Installing sshfs]\n"
 brew cask install sshfs
 
-
+echo -e "\n[Installing QEMU]\n"
+brew cask install qemu
